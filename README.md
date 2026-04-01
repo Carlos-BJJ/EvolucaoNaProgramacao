@@ -4,14 +4,14 @@
 ###
 
 <h2 align="left">🏗️Estruturas Utilizadas</h2>
-  • if-else
+ <p align="left"> • if-else
   • switch-case
   • Operador Ternário
-  • Cálculo de Métricas
+  • Cálculo de Métricas</p>
   
 ###
 
 <h2 align="left">📌Importância do Projeto</h2>
-  • Aprendizado lógico em C
+  <p align="left">• Aprendizado lógico em C
   • Boas práticas de codificação
-  • Validação de entradas
+  • Validação de entradas </p>
